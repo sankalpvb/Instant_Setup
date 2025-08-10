@@ -6,8 +6,7 @@ This script automates the setup of complete toolkits for Pentesters, CTF Players
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sankalpvb/Instant_Setup.git](https://github.com/sankalpvb/Instant_Setup.git)
-    cd Instant_Setup
+    git clone https://github.com/sankalpvb/Instant_Setup.git
     ```
 
 2.  **Make the script executable:**
